@@ -1,5 +1,5 @@
 # pizza
-Pizza Ordering Django API
+Pizza Ordering Django API <br/>
 Project Descriptions in Pizza App.pdf <br/>
 How to run this Project <br/>
 1. cd to project directory <br/>
